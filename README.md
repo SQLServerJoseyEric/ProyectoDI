@@ -23,7 +23,7 @@ a una Lista de Evidencias obtenidas de una tabla del gestor de bases de datos Sq
 
 Posteriormente para adaptar esos datos a la funcionalidad de Weka se ha tenido que trabajar con unas librerías especiales
 para poder tratar el lenguaje de programación de Java en Visual Studio donde se trabaja en C#. Esto se ha logrado mediante
-***`IKVM.NET`***, que es una implementación de Java para Mono y Microsoft .NET Framework.
+***`IKVM.NET`*** , que es una implementación de Java para Mono y Microsoft .NET Framework.
 
 Y por último se ha trabajado en la elaboración de un modelo para simular la funcionalidad del software de Weka para 
 analizar esos datos de tipo Evidencia y poder realizar un modelo predictivo.
