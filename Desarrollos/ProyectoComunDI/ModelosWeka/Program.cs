@@ -21,11 +21,11 @@ namespace ModelosWeka
         public static void cvdTest()
         {
 
-            string ruta = Environment.CurrentDirectory;
+            //string ruta = Environment.CurrentDirectory;
 
-            string archivo = ruta + "/iris.arff";
+            //string archivo = ruta + "/iris.arff";
 
-            weka.core.Instances data = new weka.core.Instances(new java.io.FileReader(archivo));
+            weka.core.Instances data = new weka.core.Instances(new java.io.FileReader(@"C:\Users\Jose\Desktop\iris.arff"));
             data.setClassIndex(data.numAttributes() - 1);
 
 
