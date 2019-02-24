@@ -87,7 +87,7 @@ namespace ModelosWeka
 
 [Sql Server ](https://www.microsoft.com/es-es/sql-server/sql-server-2017)
 
-[Weka](https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)
+[Weka](https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico))
 
 [IKVM](https://sourceforge.net/p/ikvm/mailman/message/32808306/)
 
